@@ -1,0 +1,17 @@
+@media  screen and (max-width:479px){
+     .container{
+        padding: 5px;
+     }
+        .container input{
+            display: block;
+            margin: 5px auto;
+            width: 120px;
+            
+
+        }
+        
+        .all-buttons {
+            margin: 2px;
+        }
+
+}
