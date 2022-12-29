@@ -1,16 +1,26 @@
 @media  screen and (max-width:479px){
      .container{
+        width: 90%;
+    height: 80% ;
         padding: 5px;
      }
         .container input{
+            width: 95%;
+            height: 3rem;
             display: block;
             margin: 5px auto;
-            width: 120px;
+            
             
 
         }
-        
+        .calculator-buttons{
+            margin-top: 1rem;
+        }
         .all-buttons {
+            font-size: x-large;
+            padding: 1rem;
+
+
             margin: 2px;
         }
 
